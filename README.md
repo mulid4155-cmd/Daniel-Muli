@@ -5,7 +5,7 @@ My personal  project
 ## About Me
 - I'm currently learning [Computer programming at IYF freecourses].
 - I'm interested in ( "AI, web development, and data science"].
-- I'm looking to collaborate on [e.g., "# Hi, I'm [Your 
+- I'm looking to collaborate on [Web site Building )
 
 ## Skills I'm Building
 - Git and GitHub
